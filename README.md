@@ -1,2 +1,3 @@
-# Responsive-Portfolio
-media screen / viewport tags
+week 2 hw
+
+051117 - initial push
